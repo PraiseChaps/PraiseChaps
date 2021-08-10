@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PraiseChaps
-- 👀 I’m interested in ...Reactjs ReactNative
+- 👀 I’m interested in ...Reactjs JavaScript & TypeScript
 - 🌱 I’m currently learning ...AWS DevOps
 - 💞️ I’m looking to collaborate on ...Reactjs
 - 📫 How to reach me ...here on github
