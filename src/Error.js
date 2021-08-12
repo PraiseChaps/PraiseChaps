@@ -93,7 +93,7 @@ const GreenCheckbox = withStyles({
             <Typography 
             className={classes.consent}
             variant="body2"
-            color="primary"
+            color="secondary"
             
             >
                Permission denied.
