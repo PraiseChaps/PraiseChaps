@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PraiseChaps
-- 👀 I’m interested in ...Reactjs JavaScript & TypeScript
-- 🌱 I’m currently learning ...AWS DevOps
-- 💞️ I’m looking to collaborate on ...Reactjs
+- 👀 I’m a Software & DevOps Engineer
+- 🌱 Love the cloud and the web
+- 💞Proficient with Typescript,JavaScript,Reactjs,ReactNative,Angular and DevOps 
 - 📫 How to reach me ...here on github
 
 <!---
